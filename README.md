@@ -7,4 +7,10 @@ For running the code, just simply type the following in the running path:
 python3 experiment.py
 ``
 
+# Required Packages
+VirtualTB (https://github.com/eyounx/VirtualTaobao)
+gyms
+PyTorch
+
+
 
