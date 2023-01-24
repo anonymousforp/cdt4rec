@@ -14,5 +14,10 @@ gyms
 
 PyTorch
 
+# Environments
+
+The provided code can be run on the online simulator - VirtualTB.
+If you are interested in how to run the code on the offline dataset, please refers to this link(https://github.com/luozachary/drl-rec)
+
 
 
